@@ -4,18 +4,31 @@ Here are all the scripts used to compute the results and figures of Fol et al., 
 FIGURES  -   FILE
 _______________________________
 Figure 1 - mapRegionAndGrids.py
+
 Figure 2 - mapRegionAndGrids.py
+
 Figure 3 - plotSIE.py
+
 Figure 4 - plotSICSITSpatial.py
+
 Figure 5 - plotSIE.py
+
 Figure 6 - thickness.py
+
 Figure 7 - meltSeason.py
+
 Figure 8 - fluxesFigures.py
+
 Figure 9 - fluxesFigures.py
+
 Figure 10 - fluxesFigures.py
+
 Figure 11 - plotSIE.py
+
 Figure 12 - tendencies.py
+
 Figure 13 - tendencies.py
+
 Figure 14 - tendtendenciesency.py
 
 
