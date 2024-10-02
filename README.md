@@ -1,4 +1,4 @@
-Here are all the scripts used to compute the results and figures of Fol et al., 2024 - TITLE. 
+Here are all the scripts used to compute the results and figures of Fol et al., 2024.
 
 
 FIGURES  -   FILE
