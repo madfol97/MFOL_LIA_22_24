@@ -29,7 +29,7 @@ Figure 12 - tendencies.py
 
 Figure 13 - tendencies.py
 
-Figure 14 - tendtendenciesency.py
+Figure 14 - tendencies.py
 
 
 
